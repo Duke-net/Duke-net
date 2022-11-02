@@ -11,9 +11,9 @@ Skills: Linux / Frontend / Ansible / Docker / Kubernetes
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Duke-net)  
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duke-net)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duke-net)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Duke-net&show_icons=true)  
 
