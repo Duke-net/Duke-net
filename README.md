@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
-<h3 align="center">A passionate Junior DevOps / SysOps Engineer & Frontend developer</h3>
-
 <p align="center"> <img src="https://i.imgur.com/4GguXKK.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Duke-net&label=Profile%20views&color=0e75b6&style=flat" alt="Duke-net" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Duke-net" alt="Duke-net" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Duke-net" alt="Duke-net" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
