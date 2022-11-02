@@ -7,7 +7,7 @@ Skills: Linux / Frontend / Ansible / Docker / Kubernetes
 
 - 🔭 I’m currently working on this page. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duke-net&show_icons=true&theme=transparent)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Duke-net)
